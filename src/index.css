@@ -1,0 +1,5 @@
+/* ./src/index.css */
+
+/* Screw writing CSS */
+@import '~antd/dist/antd.css'
+/* import the App component from another file */
